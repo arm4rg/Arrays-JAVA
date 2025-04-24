@@ -10,12 +10,16 @@ Este programa en Java permite realizar diversas operaciones sobre un arreglo de 
 
 ## Ejecución:
 
-1. Copiar la carpeta `EJ1_ARRAY` en el dispositivo local.
-2. Abrir el `IDE` .
-3. Abrir la Carpeta`EJ1_ARRAY` desde el `IDE`.
-4. Abrir la subcarpeta `src` y el archivo `App.java `.
-5. Presionar `Ejecutar`.
-
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/arm4rg/ArrayLists-JAVA.git
+   cd ArrayLists-JAVA
+2. Compila el programa:
+   ```bash
+   javac App.java
+3. Ejecuta el programa:
+   ```bash
+   java App
 ## Descripción del Código
 1. Al iniciar el programa, se limpia la consola y se llama al método `LlenarArray()` para llenar el arreglo con los números proporcionados por el usuario.
 2. Luego, se presenta un menú de opciones con un ciclo que se repite hasta que el usuario selecciona la opción para salir (opción 5).
