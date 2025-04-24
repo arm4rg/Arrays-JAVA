@@ -12,7 +12,7 @@ Este programa en Java permite realizar diversas operaciones sobre un arreglo de 
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/arm4rg/Arrays-JAVA.git)
+   git clone https://github.com/arm4rg/Arrays-JAVA.git
    cd Arrays-JAVA
 2. Compila el programa:
    ```bash
